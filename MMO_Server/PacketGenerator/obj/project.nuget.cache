@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "5aE4Ev3wgcY8Qn+ZP4EWdtyS6oaa8bMm0qhoBwHoG6J2cBeAGRpaFBO5/xW1R8TZNDpTkW9vgT9FGupScCFN2w==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\오헌\\Documents\\JobQueue\\MMO_Server\\PacketGenerator\\PacketGenerator.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\오헌\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.25\\microsoft.netcore.app.host.win-x64.3.1.25.nupkg.sha512"
+  ],
+  "logs": []
+}

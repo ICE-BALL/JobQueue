@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "IUgA98QM8TFP0vtnI3vNeT8lxzYCiCOmP2NYMd6ury+W4EI7ogUE7Q9ekkBnnSJ6q7ti3o7j1u8fhGZkF1UsPw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\오헌\\Documents\\JobQueue\\MMO_Server\\DummyClient\\DummyClient.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\오헌\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.25\\microsoft.netcore.app.host.win-x64.3.1.25.nupkg.sha512"
+  ],
+  "logs": []
+}

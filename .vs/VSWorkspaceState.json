@@ -1,0 +1,11 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\MMO_Server",
+    "\\MMO_Server\\Common",
+    "\\MMO_Server\\Common\\Packet",
+    "\\MMO_Server\\DummyClient"
+  ],
+  "SelectedNode": "\\MMO_Server\\Common",
+  "PreviewInSolutionExplorer": false
+}
